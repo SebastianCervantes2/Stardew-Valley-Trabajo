@@ -4,9 +4,8 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
   m_Name: sky
   m_Shader: {fileID: 4800000, guid: 32f82700d2f3c75449479a861f3b9c6e, type: 3}
   m_ShaderKeywords: 
@@ -59,12 +58,12 @@ Material:
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
-    - _DirX: 77.7
-    - _DirY: 118.7
+    - _DirX: 0
+    - _DirY: 0
     - _DstBlend: 0
     - _Exponent: 2.37
     - _Glossiness: 0.5
-    - _Intensity: 0.29
+    - _Intensity: 0.9
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
@@ -74,7 +73,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Color1: {r: 1, g: 0, b: 0.9242344, a: 0}
-    - _Color2: {r: 0, g: 0, b: 0, a: 0}
+    - _Color1: {r: 0.03137255, g: 0.24313727, b: 0.3372549, a: 0}
+    - _Color2: {r: 0.8705883, g: 0.45395535, b: 0.3215686, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _UpVector: {r: 0.85701174, g: -0.4802235, b: 0.18685889, a: 0}
+    - _UpVector: {r: 0, g: 1, b: 0, a: 0}
